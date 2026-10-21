@@ -1,0 +1,10 @@
+{
+	"name": "LS_KEYVAULT_NOWOPTICS_DEV",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-nowoptics-dev.vault.azure.net/"
+		}
+	}
+}
