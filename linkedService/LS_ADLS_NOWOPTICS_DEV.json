@@ -1,0 +1,10 @@
+{
+	"name": "LS_ADLS_NOWOPTICS_DEV",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://stnowopticsdev001.dfs.core.windows.net/"
+		}
+	}
+}
