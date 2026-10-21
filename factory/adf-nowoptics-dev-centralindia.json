@@ -1,0 +1,15 @@
+{
+	"name": "adf-nowoptics-dev-centralindia",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cde5dfde-acda-487e-89ad-c07c59bde33a",
+		"tenantId": "b854a2c1-d219-49a9-8988-d4863866591f"
+	}
+}
